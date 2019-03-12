@@ -1,2 +1,4 @@
 # Template-presentation
-This repo have the most beautifull template HTML in the world.
+This repo have the one of the most amazing HTML presentation. 
+
+You can download and change the sections, and other elements.
